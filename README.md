@@ -1,0 +1,1 @@
+# Figura-1.-Diagrama-de-caja-de-datos-sin-procesar-en-escala-log-por-microarreglo-y-calidad-de-sonda.
